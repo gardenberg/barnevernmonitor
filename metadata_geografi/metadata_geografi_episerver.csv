@@ -1,0 +1,472 @@
+"code";"name";"versjon"
+"030101";"Gamle Oslo";1
+"030102";"Grünerløkka";1
+"030103";"Sagene";1
+"030104";"St. Hanshaugen";1
+"030105";"Frogner";1
+"030106";"Ullern";1
+"030107";"Vestre Aker";1
+"030108";"Nordre Aker";1
+"030109";"Bjerke";1
+"030110";"Grorud";1
+"030111";"Stovner";1
+"030112";"Alna";1
+"030113";"Østensjø";1
+"030114";"Nordstrand";1
+"030115";"Søndre Nordstrand";1
+"030116";"Sentrum";1
+"030117";"Marka";1
+"030199";"Uoppgitt";1
+"110301";"Hundvåg";1
+"110302";"Tasta";1
+"110303";"Eiganes og Våland";1
+"110304";"Madla";1
+"110305";"Storhaug";1
+"110306";"Hillevåg";1
+"110307";"Hinna";1
+"110308";"Finnøy";1
+"110309";"Rennesøy";1
+"110399";"Uoppgitt";1
+"460101";"Arna";1
+"460102";"Bergenhus";1
+"460103";"Fana";1
+"460104";"Fyllingsdalen";1
+"460105";"Laksevåg";1
+"460106";"Ytrebygda";1
+"460107";"Årstad";1
+"460108";"Åsane";1
+"460199";"Uoppgitt";1
+"500101";"Midtbyen";1
+"500102";"Østbyen";1
+"500103";"Lerkendal";1
+"500104";"Heimdal";1
+"500199";"Uoppgitt";1
+"0301";"Oslo";1
+"1101";"Eigersund";1
+"1103";"Stavanger";1
+"1106";"Haugesund";1
+"1108";"Sandnes";1
+"1111";"Sokndal";1
+"1112";"Lund";1
+"1114";"Bjerkreim";1
+"1119";"Hå";1
+"1120";"Klepp";1
+"1121";"Time";1
+"1122";"Gjesdal";1
+"1124";"Sola";1
+"1127";"Randaberg";1
+"1130";"Strand";1
+"1133";"Hjelmeland";1
+"1134";"Suldal";1
+"1135";"Sauda";1
+"1144";"Kvitsøy";1
+"1145";"Bokn";1
+"1146";"Tysvær";1
+"1149";"Karmøy";1
+"1151";"Utsira";1
+"1160";"Vindafjord";1
+"1505";"Kristiansund";1
+"1506";"Molde";1
+"1507";"Ålesund";1
+"1511";"Vanylven";1
+"1514";"Sande";1
+"1515";"Herøy (Møre og Romsdal)";1
+"1516";"Ulstein";1
+"1517";"Hareid";1
+"1520";"Ørsta";1
+"1525";"Stranda";1
+"1528";"Sykkylven";1
+"1531";"Sula";1
+"1532";"Giske";1
+"1535";"Vestnes";1
+"1539";"Rauma";1
+"1547";"Aukra";1
+"1554";"Averøy";1
+"1557";"Gjemnes";1
+"1560";"Tingvoll";1
+"1563";"Sunndal";1
+"1566";"Surnadal";1
+"1573";"Smøla";1
+"1576";"Aure";1
+"1577";"Volda";1
+"1578";"Fjord";1
+"1579";"Hustadvika";1
+"1804";"Bodø";1
+"1806";"Narvik";1
+"1811";"Bindal";1
+"1812";"Sømna";1
+"1813";"Brønnøy";1
+"1815";"Vega";1
+"1816";"Vevelstad";1
+"1818";"Herøy (Nordland)";1
+"1820";"Alstahaug";1
+"1822";"Leirfjord";1
+"1824";"Vefsn";1
+"1825";"Grane";1
+"1826";"Aarborte - Hattfjelldal";1
+"1827";"Dønna";1
+"1828";"Nesna";1
+"1832";"Hemnes";1
+"1833";"Rana";1
+"1834";"Lurøy";1
+"1835";"Træna";1
+"1836";"Rødøy";1
+"1837";"Meløy";1
+"1838";"Gildeskål";1
+"1839";"Beiarn";1
+"1840";"Saltdal";1
+"1841";"Fauske - Fuossko";1
+"1845";"Sørfold";1
+"1848";"Steigen";1
+"1851";"Lødingen";1
+"1853";"Evenes";1
+"1856";"Røst";1
+"1857";"Værøy";1
+"1859";"Flakstad";1
+"1860";"Vestvågøy";1
+"1865";"Vågan";1
+"1866";"Hadsel";1
+"1867";"Bø";1
+"1868";"Øksnes";1
+"1870";"Sortland - Suortá";1
+"1871";"Andøy";1
+"1874";"Moskenes";1
+"1875";"Hábmer - Hamarøy";1
+"3001";"Halden";1
+"3002";"Moss";1
+"3003";"Sarpsborg";1
+"3004";"Fredrikstad";1
+"3005";"Drammen";1
+"3006";"Kongsberg";1
+"3007";"Ringerike";1
+"3011";"Hvaler";1
+"3012";"Aremark";1
+"3013";"Marker";1
+"3014";"Indre Østfold";1
+"3015";"Skiptvet";1
+"3016";"Rakkestad";1
+"3017";"Råde";1
+"3018";"Våler (Viken)";1
+"3019";"Vestby";1
+"3020";"Nordre Follo";1
+"3021";"Ås";1
+"3022";"Frogn";1
+"3023";"Nesodden";1
+"3024";"Bærum";1
+"3025";"Asker";1
+"3026";"Aurskog-Høland";1
+"3027";"Rælingen";1
+"3028";"Enebakk";1
+"3029";"Lørenskog";1
+"3030";"Lillestrøm";1
+"3031";"Nittedal";1
+"3032";"Gjerdrum";1
+"3033";"Ullensaker";1
+"3034";"Nes";1
+"3035";"Eidsvoll";1
+"3036";"Nannestad";1
+"3037";"Hurdal";1
+"3038";"Hole";1
+"3039";"Flå";1
+"3040";"Nesbyen";1
+"3041";"Gol";1
+"3042";"Hemsedal";1
+"3043";"Ål";1
+"3044";"Hol";1
+"3045";"Sigdal";1
+"3046";"Krødsherad";1
+"3047";"Modum";1
+"3048";"Øvre Eiker";1
+"3049";"Lier";1
+"3050";"Flesberg";1
+"3051";"Rollag";1
+"3052";"Nore og Uvdal";1
+"3053";"Jevnaker";1
+"3054";"Lunner";1
+"3401";"Kongsvinger";1
+"3403";"Hamar";1
+"3405";"Lillehammer";1
+"3407";"Gjøvik";1
+"3411";"Ringsaker";1
+"3412";"Løten";1
+"3413";"Stange";1
+"3414";"Nord-Odal";1
+"3415";"Sør-Odal";1
+"3416";"Eidskog";1
+"3417";"Grue";1
+"3418";"Åsnes";1
+"3419";"Våler (Innlandet)";1
+"3420";"Elverum";1
+"3421";"Trysil";1
+"3422";"Åmot";1
+"3423";"Stor-Elvdal";1
+"3424";"Rendalen";1
+"3425";"Engerdal";1
+"3426";"Tolga";1
+"3427";"Tynset";1
+"3428";"Alvdal";1
+"3429";"Folldal";1
+"3430";"Os";1
+"3431";"Dovre";1
+"3432";"Lesja";1
+"3433";"Skjåk";1
+"3434";"Lom";1
+"3435";"Vågå";1
+"3436";"Nord-Fron";1
+"3437";"Sel";1
+"3438";"Sør-Fron";1
+"3439";"Ringebu";1
+"3440";"Øyer";1
+"3441";"Gausdal";1
+"3442";"Østre Toten";1
+"3443";"Vestre Toten";1
+"3446";"Gran";1
+"3447";"Søndre Land";1
+"3448";"Nordre Land";1
+"3449";"Sør-Aurdal";1
+"3450";"Etnedal";1
+"3451";"Nord-Aurdal";1
+"3452";"Vestre Slidre";1
+"3453";"Øystre Slidre";1
+"3454";"Vang";1
+"3801";"Horten";1
+"3802";"Holmestrand";1
+"3803";"Tønsberg";1
+"3804";"Sandefjord";1
+"3805";"Larvik";1
+"3806";"Porsgrunn";1
+"3807";"Skien";1
+"3808";"Notodden";1
+"3811";"Færder";1
+"3812";"Siljan";1
+"3813";"Bamble";1
+"3814";"Kragerø";1
+"3815";"Drangedal";1
+"3816";"Nome";1
+"3817";"Midt-Telemark";1
+"3818";"Tinn";1
+"3819";"Hjartdal";1
+"3820";"Seljord";1
+"3821";"Kviteseid";1
+"3822";"Nissedal";1
+"3823";"Fyresdal";1
+"3824";"Tokke";1
+"3825";"Vinje";1
+"4201";"Risør";1
+"4202";"Grimstad";1
+"4203";"Arendal";1
+"4204";"Kristiansand";1
+"4205";"Lindesnes";1
+"4206";"Farsund";1
+"4207";"Flekkefjord";1
+"4211";"Gjerstad";1
+"4212";"Vegårshei";1
+"4213";"Tvedestrand";1
+"4214";"Froland";1
+"4215";"Lillesand";1
+"4216";"Birkenes";1
+"4217";"Åmli";1
+"4218";"Iveland";1
+"4219";"Evje og Hornnes";1
+"4220";"Bygland";1
+"4221";"Valle";1
+"4222";"Bykle";1
+"4223";"Vennesla";1
+"4224";"Åseral";1
+"4225";"Lyngdal";1
+"4226";"Hægebostad";1
+"4227";"Kvinesdal";1
+"4228";"Sirdal";1
+"4601";"Bergen";1
+"4602";"Kinn";1
+"4611";"Etne";1
+"4612";"Sveio";1
+"4613";"Bømlo";1
+"4614";"Stord";1
+"4615";"Fitjar";1
+"4616";"Tysnes";1
+"4617";"Kvinnherad";1
+"4618";"Ullensvang";1
+"4619";"Eidfjord";1
+"4620";"Ulvik";1
+"4621";"Voss";1
+"4622";"Kvam";1
+"4623";"Samnanger";1
+"4624";"Bjørnafjorden";1
+"4625";"Austevoll";1
+"4626";"Øygarden";1
+"4627";"Askøy";1
+"4628";"Vaksdal";1
+"4629";"Modalen";1
+"4630";"Osterøy";1
+"4631";"Alver";1
+"4632";"Austrheim";1
+"4633";"Fedje";1
+"4634";"Masfjorden";1
+"4635";"Gulen";1
+"4636";"Solund";1
+"4637";"Hyllestad";1
+"4638";"Høyanger";1
+"4639";"Vik";1
+"4640";"Sogndal";1
+"4641";"Aurland";1
+"4642";"Lærdal";1
+"4643";"Årdal";1
+"4644";"Luster";1
+"4645";"Askvoll";1
+"4646";"Fjaler";1
+"4647";"Sunnfjord";1
+"4648";"Bremanger";1
+"4649";"Stad";1
+"4650";"Gloppen";1
+"4651";"Stryn";1
+"5001";"Trondheim";1
+"5006";"Steinkjer";1
+"5007";"Namsos - Nåavmesjenjaelmie";1
+"5014";"Frøya";1
+"5020";"Osen";1
+"5021";"Oppdal";1
+"5022";"Rennebu";1
+"5025";"Røros";1
+"5026";"Holtålen";1
+"5027";"Midtre Gauldal";1
+"5028";"Melhus";1
+"5029";"Skaun";1
+"5031";"Malvik";1
+"5032";"Selbu";1
+"5033";"Tydal";1
+"5034";"Meråker";1
+"5035";"Stjørdal";1
+"5036";"Frosta";1
+"5037";"Levanger";1
+"5038";"Verdal";1
+"5041";"Snåase - Snåsa";1
+"5042";"Lierne";1
+"5043";"Raarvihke - Røyrvik";1
+"5044";"Namsskogan";1
+"5045";"Grong";1
+"5046";"Høylandet";1
+"5047";"Overhalla";1
+"5049";"Flatanger";1
+"5052";"Leka";1
+"5053";"Inderøy";1
+"5054";"Indre Fosen";1
+"5055";"Heim";1
+"5056";"Hitra";1
+"5057";"Ørland";1
+"5058";"Åfjord";1
+"5059";"Orkland";1
+"5060";"Nærøysund";1
+"5061";"Rindal";1
+"5401";"Tromsø";1
+"5402";"Harstad - Hárstták";1
+"5403";"Alta";1
+"5404";"Vardø";1
+"5405";"Vadsø";1
+"5406";"Hammerfest - Hámmerfeasta";1
+"5411";"Kvæfjord";1
+"5412";"Dielddanuorri - Tjeldsund";1
+"5413";"Ibestad";1
+"5414";"Gratangen";1
+"5415";"Loabák - Lavangen";1
+"5416";"Bardu";1
+"5417";"Salangen";1
+"5418";"Målselv";1
+"5419";"Sørreisa";1
+"5420";"Dyrøy";1
+"5421";"Senja";1
+"5422";"Balsfjord";1
+"5423";"Karlsøy";1
+"5424";"Lyngen";1
+"5425";"Storfjord - Omasvuotna - Omasvuono";1
+"5426";"Gáivuotna - Kåfjord - Kaivuono";1
+"5427";"Skjervøy";1
+"5428";"Nordreisa - Ráisa - Raisi";1
+"5429";"Kvænangen";1
+"5430";"Guovdageaidnu - Kautokeino";1
+"5432";"Loppa";1
+"5433";"Hasvik";1
+"5434";"Måsøy";1
+"5435";"Nordkapp";1
+"5436";"Porsanger - Porsá?gu - Porsanki";1
+"5437";"Kárá?johka - Karasjok";1
+"5438";"Lebesby";1
+"5439";"Gamvik";1
+"5440";"Berlevåg";1
+"5441";"Deatnu - Tana";1
+"5442";"Unjárga - Nesseby";1
+"5443";"Båtsfjord";1
+"5444";"Sør-Varanger";1
+"1516,1517,1520,1577";"ULSTEIN, HAREID, ØRSTA, VOLDA";1
+"1560,1563,1566,5061";"TINGVOLL, SUNNDAL, SURNADAL, RINDAL";1
+"1818,1820,1822,1827,1835";"HERØY (NORDLAND), ALSTADHAUG, LEIRFJORD, DØNNA, TRÆNA";1
+"1839,1840";"BEIARN, SALTDAL";1
+"1859,1860,1874";"FLAKSTAD, VESTVÅGØY, MOSKENES";1
+"1851,1866,1867,1868,1870,1871";"LØDINGEN, HADSEL, BØ, ØKSNES, SORTLAND, ANDØY";1
+"3039,3040,3041,3042,3043,3044";"FLÅ, NESBYEN, GOL, HEMSEDAL, ÅL, HOL";1
+"3050,3051,3052";"FLESBERG, ROLLAG, NORE OG UVDAL";1
+"5025,5026,3430";"RØROS, HOLTÅLEN, OS";1
+"3449,3450,3451,3453";"SØR-AURDAL, ETNEDAL, NORD-AURDAL, ØYSTRE SLIDRE";1
+"3820,3821,3822,3823,3824,3825";"SELJORD, KVITESEID, NISSEDAL, FYRESDAL, TOKKE, VINJE";1
+"4220,4221,4222";"BYGLAND, VALLE, BYKLE";1
+"4618,4619,4620";"ULLENSVANG, EIDFJORD, ULVIK";1
+"5419,5420";"SØRREISA, DYRØY";1
+"5440,5443";"BERLEVÅG, BÅTSFJORD";1
+"1101,1111,1112";"EIGERSUND, SOKNDAL, LUND";1
+"1106,1151";"HAUGESUND , UTSIRA";1
+"1144,1127";"KVITSØY, RANDABERG";1
+"1134,1135";"SULDAL, SAUDA";1
+"1145,1149";"BOKN, KARMØY";1
+"1505,1554,1557";"KRISTIANSUND, AVERØY, GJEMNES";1
+"1506,1535,1547";"MOLDE, VESTNES, AUKRA";1
+"1507,1578";"ÅLESUND, FJORD";1
+"1515,1511";"HERØY (MØRE OG ROMSDAL), VANYLVEN";1
+"1837,1804,1838,1848,1856,1857";"HAMARØY, BODØ, GILDESKÅL, STEIGEN, RØST, VERØY";1
+"1806,1853";"NARVIK, EVENES";1
+"1811,1812,1813,1815,1816";"BINDAL, SØMNA, BRØNNØY, VEGA, VEVELSTAD";1
+"3045,3046,3047";"SIGDAL, KRØDSHERAD, MODUM";1
+"3407,3447,3448";"GJØVIK, SØNDRE LAND, NORDRE LAND";1
+"3414,3415";"NORD-ODAL, SØR-ODAL";1
+"3417,3418,3419";"GRUE, ÅSNES, VÅLER(INNLANDET)";1
+"3424,3426,3427,3428,3429";"RENDALEN, TOLGA, TYNSET, ALVDAL, FOLLDAL";1
+"3431,3432";"DOVRE, LESJA";1
+"3433,3434,3435,3437";"SKJÅK, LOM, VÅGÅ, SEL";1
+"3436,3438,3439";"NORD-FRON, SØR-FRON, RINGEBU";1
+"3452,3454";"VESTRE SLIDRE, VANG";1
+"3808,3819";"NOTODDEN, HJARTDAL";1
+"3814,3815";"KRAGERØ, DRANGEDAL";1
+"4201,4211,4212,4213,4217";"RISØR, GJERSTAD, VEGÅRSHEI, TVEDESTRAND, ÅMLI";1
+"4213,4214,4225,4226,4227,4228";"FARSUND, FLEKKEFJORD, LYNGDAL, HÆGEBOSTAD, KVINESDAL, SIRDAL";1
+"4218,4219,4223,4224";"IVELAND, EVJE OG HORNES, VENNESLA, ÅSERAL";1
+"4613,4614,4615";"BØMLO, STORD, FITJAR";1
+"4628,4639";"VAKSDAL, MODALEN";1
+"4631,4632,4633";"ALVER, AUSTRHEIM, FEDJE";1
+"4634,4635";"MASFJORDEN, GULEN";1
+"4636,4637,4645,4646";"SOLUND, HYLLESTAD, ASKVOLL, FJALER";1
+"4641,4642";"AURLAND, LÆRDAL";1
+"500101,500102,500103,500104,500199";"MIDTBYEN, ØSTBYEN, LERKENDAL, HEIMDAL, UOPPGITT BYDEL TRONDHEIM";1
+"5006,5053";"STEINKJER, INDERØY";1
+"5007,5047,5049";"NAMSOS, OVERHALLA, FLATANGER";1
+"5020,5054,5057,5058";"OSEN, INDRE FOSEN, ØRLAND, ÅFJORD";1
+"5021,5022";"OPPDAL, RENNEBU";1
+"5028,5029";"MELHUS, SKAUN";1
+"5032,5033,5034,5035,5036";"SELBU, TYDAL, MERÅKER, STJØRDAL, FROSTA";1
+"5041,5042,5043,5044,5045,5046";"SNÅSA, LIERNE, RØYRVIK, NAMSSKOGAN, GRONG, HØYLANDET";1
+"5403,5429";"ALTA, KVÆNANGEN";1
+"5414,5415,5417";"GRATANGEN, LAVANGEN, SALANGEN";1
+"5438,5439";"LEBESBY, GAMVIK";1
+"5441,5442";"TANA, NESSEBY";1
+"03";"Oslo";1
+"11";"Rogaland";1
+"15";"Møre og Romsdal";1
+"18";"Nordland";1
+"30";"Viken";1
+"34";"Innlandet";1
+"38";"Vestfold og Telemark";1
+"42";"Agder";1
+"46";"Vestland";1
+"50";"Trøndelag - Trööndelage";1
+"54";"Troms og Finnmark ? Romsa ja Finnmárku ? Tromssa ja Finmarkku";1
+"0";"Norge";1
+"2111";"Longyearbyen";1
+"21";"Svalbard";1

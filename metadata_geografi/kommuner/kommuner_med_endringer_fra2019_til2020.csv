@@ -1,0 +1,314 @@
+kommuner_2019;kommuner_2020;splittes
+0101 - Halden;3001 - Halden;0
+0104 - Moss;3002 - Moss;0
+0105 - Sarpsborg;3003 - Sarpsborg;0
+0106 - Fredrikstad;3004 - Fredrikstad;0
+0111 - Hvaler;3011 - Hvaler;0
+0118 - Aremark;3012 - Aremark;0
+0119 - Marker;3013 - Marker;0
+0121 - Rømskog;3026 - Aurskog-Høland;0
+0122 - Trøgstad;3014 - Indre Østfold;0
+0123 - Spydeberg;3014 - Indre Østfold;0
+0124 - Askim;3014 - Indre Østfold;0
+0125 - Eidsberg;3014 - Indre Østfold;0
+0127 - Skiptvet;3015 - Skiptvet;0
+0128 - Rakkestad;3016 - Rakkestad;0
+0135 - Råde;3017 - Råde;0
+0136 - Rygge;3002 - Moss;0
+0137 - Våler;3018 - Våler (Viken);0
+0138 - Hobøl;3014 - Indre Østfold;0
+0211 - Vestby;3019 - Vestby;0
+0213 - Ski;3020 - Nordre Follo;0
+0214 - Ås;3021 - Ås;0
+0215 - Frogn;3022 - Frogn;0
+0216 - Nesodden;3023 - Nesodden;0
+0217 - Oppegård;3020 - Nordre Follo;0
+0219 - Bærum;3024 - Bærum;0
+0220 - Asker;3025 - Asker;0
+0221 - Aurskog-Høland;3026 - Aurskog-Høland;0
+0226 - Sørum;3030 - Lillestrøm;0
+0227 - Fet;3030 - Lillestrøm;0
+0228 - Rælingen;3027 - Rælingen;0
+0229 - Enebakk;3028 - Enebakk;0
+0230 - Lørenskog;3029 - Lørenskog;0
+0231 - Skedsmo;3030 - Lillestrøm;0
+0233 - Nittedal;3031 - Nittedal;0
+0234 - Gjerdrum;3032 - Gjerdrum;0
+0235 - Ullensaker;3033 - Ullensaker;0
+0236 - Nes;3034 - Nes;0
+0237 - Eidsvoll;3035 - Eidsvoll;0
+0238 - Nannestad;3036 - Nannestad;0
+0239 - Hurdal;3037 - Hurdal;0
+0402 - Kongsvinger;3401 - Kongsvinger;0
+0403 - Hamar;3403 - Hamar;0
+0412 - Ringsaker;3411 - Ringsaker;0
+0415 - Løten;3412 - Løten;0
+0417 - Stange;3413 - Stange;0
+0418 - Nord-Odal;3414 - Nord-Odal;0
+0419 - Sør-Odal;3415 - Sør-Odal;0
+0420 - Eidskog;3416 - Eidskog;0
+0423 - Grue;3417 - Grue;0
+0425 - Åsnes;3418 - Åsnes;0
+0426 - Våler;3419 - Våler (Innlandet);0
+0427 - Elverum;3420 - Elverum;0
+0428 - Trysil;3421 - Trysil;0
+0429 - Åmot;3422 - Åmot;0
+0430 - Stor-Elvdal;3423 - Stor-Elvdal;0
+0432 - Rendalen;3424 - Rendalen;0
+0434 - Engerdal;3425 - Engerdal;0
+0436 - Tolga;3426 - Tolga;0
+0437 - Tynset;3427 - Tynset;0
+0438 - Alvdal;3428 - Alvdal;0
+0439 - Folldal;3429 - Folldal;0
+0441 - Os;3430 - Os;0
+0501 - Lillehammer;3405 - Lillehammer;0
+0502 - Gjøvik;3407 - Gjøvik;0
+0511 - Dovre;3431 - Dovre;0
+0512 - Lesja;3432 - Lesja;0
+0513 - Skjåk;3433 - Skjåk;0
+0514 - Lom;3434 - Lom;0
+0515 - Vågå;3435 - Vågå;0
+0516 - Nord-Fron;3436 - Nord-Fron;0
+0517 - Sel;3437 - Sel;0
+0519 - Sør-Fron;3438 - Sør-Fron;0
+0520 - Ringebu;3439 - Ringebu;0
+0521 - Øyer;3440 - Øyer;0
+0522 - Gausdal;3441 - Gausdal;0
+0528 - Østre Toten;3442 - Østre Toten;0
+0529 - Vestre Toten;3443 - Vestre Toten;0
+0532 - Jevnaker;3053 - Jevnaker;0
+0533 - Lunner;3054 - Lunner;0
+0534 - Gran;3446 - Gran;0
+0536 - Søndre Land;3447 - Søndre Land;0
+0538 - Nordre Land;3448 - Nordre Land;0
+0540 - Sør-Aurdal;3449 - Sør-Aurdal;0
+0541 - Etnedal;3450 - Etnedal;0
+0542 - Nord-Aurdal;3451 - Nord-Aurdal;0
+0543 - Vestre Slidre;3452 - Vestre Slidre;0
+0544 - Øystre Slidre;3453 - Øystre Slidre;0
+0545 - Vang;3454 - Vang;0
+0602 - Drammen;3005 - Drammen;0
+0604 - Kongsberg;3006 - Kongsberg;0
+0605 - Ringerike;3007 - Ringerike;0
+0612 - Hole;3038 - Hole;0
+0615 - Flå;3039 - Flå;0
+0616 - Nes;3040 - Nesbyen;0
+0617 - Gol;3041 - Gol;0
+0618 - Hemsedal;3042 - Hemsedal;0
+0619 - Ål;3043 - Ål;0
+0620 - Hol;3044 - Hol;0
+0621 - Sigdal;3045 - Sigdal;0
+0622 - Krødsherad;3046 - Krødsherad;0
+0623 - Modum;3047 - Modum;0
+0624 - Øvre Eiker;3048 - Øvre Eiker;0
+0625 - Nedre Eiker;3005 - Drammen;0
+0626 - Lier;3049 - Lier;0
+0627 - Røyken;3025 - Asker;0
+0628 - Hurum;3025 - Asker;0
+0631 - Flesberg;3050 - Flesberg;0
+0632 - Rollag;3051 - Rollag;0
+0633 - Nore og Uvdal;3052 - Nore og Uvdal;0
+0701 - Horten;3801 - Horten;0
+0704 - Tønsberg;3803 - Tønsberg;0
+0710 - Sandefjord;3804 - Sandefjord;0
+0711 - Svelvik;3005 - Drammen;0
+0712 - Larvik;3805 - Larvik;0
+0713 - Sande;3802 - Holmestrand;0
+0715 - Holmestrand;3802 - Holmestrand;0
+0716 - Re;3803 - Tønsberg;0
+0729 - Færder;3811 - Færder;0
+0805 - Porsgrunn;3806 - Porsgrunn;0
+0806 - Skien;3807 - Skien;0
+0807 - Notodden;3808 - Notodden;0
+0811 - Siljan;3812 - Siljan;0
+0814 - Bamble;3813 - Bamble;0
+0815 - Kragerø;3814 - Kragerø;0
+0817 - Drangedal;3815 - Drangedal;0
+0819 - Nome;3816 - Nome;0
+0821 - Bø;3817 - Midt-Telemark;0
+0822 - Sauherad;3817 - Midt-Telemark;0
+0826 - Tinn;3818 - Tinn;0
+0827 - Hjartdal;3819 - Hjartdal;0
+0828 - Seljord;3820 - Seljord;0
+0829 - Kviteseid;3821 - Kviteseid;0
+0830 - Nissedal;3822 - Nissedal;0
+0831 - Fyresdal;3823 - Fyresdal;0
+0833 - Tokke;3824 - Tokke;0
+0834 - Vinje;3825 - Vinje;0
+0901 - Risør;4201 - Risør;0
+0904 - Grimstad;4202 - Grimstad;0
+0906 - Arendal;4203 - Arendal;0
+0911 - Gjerstad;4211 - Gjerstad;0
+0912 - Vegårshei;4212 - Vegårshei;0
+0914 - Tvedestrand;4213 - Tvedestrand;0
+0919 - Froland;4214 - Froland;0
+0926 - Lillesand;4215 - Lillesand;0
+0928 - Birkenes;4216 - Birkenes;0
+0929 - Åmli;4217 - Åmli;0
+0935 - Iveland;4218 - Iveland;0
+0937 - Evje og Hornnes;4219 - Evje og Hornnes;0
+0938 - Bygland;4220 - Bygland;0
+0940 - Valle;4221 - Valle;0
+0941 - Bykle;4222 - Bykle;0
+1001 - Kristiansand;4204 - Kristiansand;0
+1002 - Mandal;4205 - Lindesnes;0
+1003 - Farsund;4206 - Farsund;0
+1004 - Flekkefjord;4207 - Flekkefjord;0
+1014 - Vennesla;4223 - Vennesla;0
+1017 - Songdalen;4204 - Kristiansand;0
+1018 - Søgne;4204 - Kristiansand;0
+1021 - Marnardal;4205 - Lindesnes;0
+1026 - Åseral;4224 - Åseral;0
+1027 - Audnedal;4225 - Lyngdal;0
+1029 - Lindesnes;4205 - Lindesnes;0
+1032 - Lyngdal;4225 - Lyngdal;0
+1034 - Hægebostad;4226 - Hægebostad;0
+1037 - Kvinesdal;4227 - Kvinesdal;0
+1046 - Sirdal;4228 - Sirdal;0
+1102 - Sandnes;1108 - Sandnes;0
+1129 - Forsand;1108 - Sandnes;0
+1141 - Finnøy;1103 - Stavanger;0
+1142 - Rennesøy;1103 - Stavanger;0
+1201 - Bergen;4601 - Bergen;0
+1211 - Etne;4611 - Etne;0
+1216 - Sveio;4612 - Sveio;0
+1219 - Bømlo;4613 - Bømlo;0
+1221 - Stord;4614 - Stord;0
+1222 - Fitjar;4615 - Fitjar;0
+1223 - Tysnes;4616 - Tysnes;0
+1224 - Kvinnherad;4617 - Kvinnherad;0
+1227 - Jondal;4618 - Ullensvang;0
+1228 - Odda;4618 - Ullensvang;0
+1231 - Ullensvang;4618 - Ullensvang;0
+1232 - Eidfjord;4619 - Eidfjord;0
+1233 - Ulvik;4620 - Ulvik;0
+1234 - Granvin;4621 - Voss;0
+1235 - Voss;4621 - Voss;0
+1238 - Kvam;4622 - Kvam;0
+1241 - Fusa;4624 - Bjørnafjorden;0
+1242 - Samnanger;4623 - Samnanger;0
+1243 - Os;4624 - Bjørnafjorden;0
+1244 - Austevoll;4625 - Austevoll;0
+1245 - Sund;4626 - Øygarden;0
+1246 - Fjell;4626 - Øygarden;0
+1247 - Askøy;4627 - Askøy;0
+1251 - Vaksdal;4628 - Vaksdal;0
+1252 - Modalen;4629 - Modalen;0
+1253 - Osterøy;4630 - Osterøy;0
+1256 - Meland;4631 - Alver;0
+1259 - Øygarden;4626 - Øygarden;0
+1260 - Radøy;4631 - Alver;0
+1263 - Lindås;4631 - Alver;0
+1264 - Austrheim;4632 - Austrheim;0
+1265 - Fedje;4633 - Fedje;0
+1266 - Masfjorden;4634 - Masfjorden;0
+1401 - Flora;4602 - Kinn;0
+1411 - Gulen;4635 - Gulen;0
+1412 - Solund;4636 - Solund;0
+1413 - Hyllestad;4637 - Hyllestad;0
+1416 - Høyanger;4638 - Høyanger;0
+1417 - Vik;4639 - Vik;0
+1418 - Balestrand;4640 - Sogndal;0
+1419 - Leikanger;4640 - Sogndal;0
+1420 - Sogndal;4640 - Sogndal;0
+1421 - Aurland;4641 - Aurland;0
+1422 - Lærdal;4642 - Lærdal;0
+1424 - Årdal;4643 - Årdal;0
+1426 - Luster;4644 - Luster;0
+1428 - Askvoll;4645 - Askvoll;0
+1429 - Fjaler;4646 - Fjaler;0
+1430 - Gaular;4647 - Sunnfjord;0
+1431 - Jølster;4647 - Sunnfjord;0
+1432 - Førde;4647 - Sunnfjord;0
+1433 - Naustdal;4647 - Sunnfjord;0
+1438 - Bremanger;4648 - Bremanger;0
+1439 - Vågsøy;4602 - Kinn;0
+1441 - Selje;4649 - Stad;0
+1443 - Eid;4649 - Stad;0
+1444 - Hornindal;1577 - Volda;0
+1445 - Gloppen;4650 - Gloppen;0
+1449 - Stryn;4651 - Stryn;0
+1502 - Molde;1506 - Molde;0
+1504 - Ålesund;1507 - Ålesund;0
+1519 - Volda;1577 - Volda;0
+1523 - Ørskog;1507 - Ålesund;0
+1524 - Norddal;1578 - Fjord;0
+1526 - Stordal;1578 - Fjord;0
+1529 - Skodje;1507 - Ålesund;0
+1534 - Haram;1507 - Ålesund;0
+1543 - Nesset;1506 - Molde;0
+1545 - Midsund;1506 - Molde;0
+1546 - Sandøy;1507 - Ålesund;0
+1548 - Fræna;1579 - Hustadvika;0
+1551 - Eide;1579 - Hustadvika;0
+1571 - Halsa;5055 - Heim;0
+1805 - Narvik;1806 - Narvik;0
+1826 - Hattfjelldal;1826 - Aarborte - Hattfjelldal;0
+1849 - Hábmer - Hamarøy;1875 - Hábmer - Hamarøy;0
+1850 - Tysfjord - Divtasvuodna;1806 - Narvik;1
+1850 - Tysfjord - Divtasvuodna;1875 - Hábmer - Hamarøy;1
+1852 - Dielddanuorri - Tjeldsund;5412 - Dielddanuorri - Tjeldsund;0
+1854 - Ballangen;1806 - Narvik;0
+1902 - Tromsø;5401 - Tromsø;0
+1903 - Harstad - Hárstták;5402 - Harstad - Hárstták;0
+1911 - Kvæfjord;5411 - Kvæfjord;0
+1913 - Skånland;5412 - Dielddanuorri - Tjeldsund;0
+1917 - Ibestad;5413 - Ibestad;0
+1919 - Gratangen;5414 - Gratangen;0
+1920 - Loabák - Lavangen;5415 - Loabák - Lavangen;0
+1922 - Bardu;5416 - Bardu;0
+1923 - Salangen;5417 - Salangen;0
+1924 - Målselv;5418 - Målselv;0
+1925 - Sørreisa;5419 - Sørreisa;0
+1926 - Dyrøy;5420 - Dyrøy;0
+1927 - Tranøy;5421 - Senja;0
+1928 - Torsken;5421 - Senja;0
+1929 - Berg;5421 - Senja;0
+1931 - Lenvik;5421 - Senja;0
+1933 - Balsfjord;5422 - Balsfjord;0
+1936 - Karlsøy;5423 - Karlsøy;0
+1938 - Lyngen;5424 - Lyngen;0
+1939 - Storfjord - Omasvuotna - Omasvuono;5425 - Storfjord - Omasvuotna - Omasvuono;0
+1940 - Gáivuotna - Kåfjord - Kaivuono;5426 - Gáivuotna - Kåfjord - Kaivuono;0
+1941 - Skjervøy;5427 - Skjervøy;0
+1942 - Nordreisa - Ráisa - Raisi;5428 - Nordreisa - Ráisa - Raisi;0
+1943 - Kvænangen;5429 - Kvænangen;0
+2002 - Vardø;5404 - Vardø;0
+2003 - Vadsø;5405 - Vadsø;0
+2004 - Hammerfest - Hámmerfeasta;5406 - Hammerfest - Hámmerfeasta;0
+2011 - Guovdageaidnu - Kautokeino;5430 - Guovdageaidnu - Kautokeino;0
+2012 - Alta;5403 - Alta;0
+2014 - Loppa;5432 - Loppa;0
+2015 - Hasvik;5433 - Hasvik;0
+2017 - Kvalsund;5406 - Hammerfest - Hámmerfeasta;0
+2018 - Måsøy;5434 - Måsøy;0
+2019 - Nordkapp;5435 - Nordkapp;0
+2020 - Porsanger - Porsángu - Porsanki;5436 - Porsanger - Porsá?gu - Porsanki;0
+2021 - Kárášjohka - Karasjok;5437 - Kárášjohka - Karasjok;0
+2022 - Lebesby;5438 - Lebesby;0
+2023 - Gamvik;5439 - Gamvik;0
+2024 - Berlevåg;5440 - Berlevåg;0
+2025 - Deatnu - Tana;5441 - Deatnu - Tana;0
+2027 - Unjárga - Nesseby;5442 - Unjárga - Nesseby;0
+2028 - Båtsfjord;5443 - Båtsfjord;0
+2030 - Sør-Varanger;5444 - Sør-Varanger;0
+5004 - Steinkjer;5006 - Steinkjer;0
+5005 - Namsos - Nåavmesjenjaelmie;5007 - Namsos - Nåavmesjenjaelmie;0
+5011 - Hemne;5055 - Heim;0
+5012 - Snillfjord;5055 - Heim;1
+5012 - Snillfjord;5056 - Hitra;1
+5012 - Snillfjord;5059 - Orkland;1
+5013 - Hitra;5056 - Hitra;0
+5015 - Ørland;5057 - Ørland;0
+5016 - Agdenes;5059 - Orkland;0
+5017 - Bjugn;5057 - Ørland;0
+5018 - Åfjord;5058 - Åfjord;0
+5019 - Roan;5058 - Åfjord;0
+5023 - Meldal;5059 - Orkland;0
+5024 - Orkdal;5059 - Orkland;0
+5030 - Klæbu;5001 - Trondheim;0
+5039 - Verran;5006 - Steinkjer;0
+5040 - Namdalseid;5007 - Namsos - Nåavmesjenjaelmie;0
+5048 - Fosnes;5007 - Namsos - Nåavmesjenjaelmie;0
+5050 - Vikna;5060 - Nærøysund;0
+5051 - Nærøy;5060 - Nærøysund;0
